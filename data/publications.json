@@ -1,0 +1,1047 @@
+[
+  {
+    "title": "Monitoring and Control System Based on Mixed Reality and the S7.Net Library",
+    "year": 2026,
+    "venue": "IoT",
+    "authors": "Tudor Covrig, Adrian Duka, Liviu Miclea",
+    "url": "https://doi.org/10.3390/iot7010010",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Reliability Calculation for Paper Robots, Case Study: Assistive Robot with Human",
+    "year": 2026,
+    "venue": "Lecture notes in electrical engineering",
+    "authors": "Marius Misaros, Liviu Miclea, Dan Ioan Gota, Anca Stan, Ovidiu Stan, Szilárd Enyedi",
+    "url": "https://doi.org/10.1007/978-981-95-2820-2_8",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "GAN for High Performance Video Frame Interpolation",
+    "year": 2026,
+    "venue": "Lecture notes in electrical engineering",
+    "authors": "Dan Ioan Gota, Marius Misaros, Ovidiu Stan, Szilárd Enyedi, Iulia Stefan, Daniela Florentina Niste, Anca Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1007/978-981-95-2820-2_31",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Reliability and Performance Study of Neural Networks on Resource-Constrained Platforms",
+    "year": 2026,
+    "venue": "Lecture notes in electrical engineering",
+    "authors": "Szilárd Enyedi, Cosmin‑Alexandru Deac, Liviu Miclea, Ovidiu Stan, Dan Ioan Gota, Marius Misaros",
+    "url": "https://doi.org/10.1007/978-981-95-2820-2_4",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "From Virtual Trajectory Generation to Real Execution and Validation in a MATLAB-ROS Hybrid Framework for a 6 DOF Industrial Robot",
+    "year": 2026,
+    "venue": "Automation",
+    "authors": "Stelian-Emilian Oltean, Mircea Dulău, Adrian-Vasile Duka, Tudor Covrig",
+    "url": "https://doi.org/10.3390/automation7020064",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Adaptive Neural Network Optimization of Vehicle Start-Stop Systems Using Digital Twin Framework",
+    "year": 2026,
+    "venue": "Unknown venue",
+    "authors": "George Flutur, Ovidiu-Petru Stan, Gabriel Chindriș, Liviu-Cristian MICLEA",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480359",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "An Explainable Federated Learning Solution for Breast Cancer Classification using SHAP and LIME",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Alexandru Ciobotaru, Dan Ioan Gota, Adela Puscasiu, Ovidiu Stan, Alexandra Fanca, Claudiu Domuta, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecer65523.2025.11401283",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Behavioural cloning for autonomous machine modelling based on neural networks",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Dan Ioan Gota, Marius Misaros, Bogdan.Draghici, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecer65523.2025.11401236",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Assessment of Deauthentication Threats in IoT: An Empirical Analysis of ESP8266 Deauther and Flipper Zero",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Bogdan Gabriel Drăghici, Alexandra Elena Dobre, Mihai-Alexandru Jibotean, Darius Ionică, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240388",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Method for Assessing the Reliability of the Pepper Robot in Handling Office Documents: A Case Study",
+    "year": 2024,
+    "venue": "Biomimetics",
+    "authors": "M. Misaroș, O.P. Stan, S. Enyedi, A. Stan, I. Donca, L.C. Miclea",
+    "url": "https://www.mdpi.com/2313-7673/9/9/558"
+  },
+  {
+    "title": "Comprehensive Security for IoT Devices with Kubernetes and Raspberry Pi Cluster",
+    "year": 2024,
+    "venue": "Electronics",
+    "authors": "I.C. Donca, O.P. Stan, M. Misaroș, A. Stan, L. Miclea",
+    "url": "https://www.mdpi.com/2079-9292/13/9/1613"
+  },
+  {
+    "title": "Input Voltage-Level Driven Split-Input Inverter Level Shifter for Nanoscale Applications",
+    "year": 2024,
+    "venue": "Electronics",
+    "authors": "S. Gundala, M.M. Basha, V. Madhurima, O.P. Stan",
+    "url": "https://www.mdpi.com/2079-9292/13/6/1115"
+  },
+  {
+    "title": "Secure Healthcare Model Using Multi-Step Deep Q Learning Network in Internet of Things",
+    "year": 2024,
+    "venue": "Electronics",
+    "authors": "P.P. Roy, V. Teju, V. Kandula, S.R. Sowmya, K.V., A.I. Stan, O.P. Stan",
+    "url": "https://www.mdpi.com/2079-9292/13/3/669"
+  },
+  {
+    "title": "Securing the 18O Oxygen Isotope Separation Process: A Focus on Network Devices and Access Servers",
+    "year": 2024,
+    "venue": "ICoRSE / Springer",
+    "authors": "P. Urs, V. Mureșan, M. Hulea, I. Ștefan",
+    "url": "#"
+  },
+  {
+    "title": "Implementation of High-Speed Compact Level-Up Shifter for Nano-Scale Applications",
+    "year": 2023,
+    "venue": "Electronics",
+    "authors": "M.V. Sudhakar, O.P. Stan",
+    "url": "#"
+  },
+  {
+    "title": "Solution for the Mathematical Modeling and Future Prediction of the COVID-19 Pandemic Dynamics",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "authors": "C.-M. Stăncioi, I.A. Ștefan, V. Briciu, V. Mureșan, I. Cițan, M. Abrudean, M. Ungureșan, M.-L. Miron, R. Stativă, E. Nanu et al.",
+    "url": "#"
+  },
+  {
+    "title": "A Hybrid Retina Net Classifier for Thermal Imaging",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "authors": "T. Ventrapragada, K.V. Sowmya, S.R. Kandula, A. Stan, O.P. Stan",
+    "url": "#"
+  },
+  {
+    "title": "Autonomous Robots for Services - State of the Art, Challenges, and Research Areas",
+    "year": 2023,
+    "venue": "Sensors",
+    "authors": "M. Misaroș, O.P. Stan, I. Donca, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Technology and Education as Drivers of the Fourth Industrial Revolution Through the Lens of the New Science of Learning",
+    "year": 2023,
+    "venue": "HCII / Springer",
+    "authors": "I. Ștefan et al.",
+    "url": "#"
+  },
+  {
+    "title": "Long-Range Network of Air Quality Index Sensors in an Urban Area",
+    "year": 2023,
+    "venue": "Sensors",
+    "authors": "I.M. Dobra, V.A. Dobra, A.A. Dobra, G. Harja, S. Folea, V.D. Gavră",
+    "url": "#"
+  },
+  {
+    "title": "Mathematical Modeling and Digital Simulation of Teeth Dynamics for the Approximation of Orthodontic Treatment Duration",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "authors": "O. Bunta, D. Festila, V. Mureșan, T. Colosi, O. Stan, M. Ungureșan, M. Baciuț",
+    "url": "#"
+  },
+  {
+    "title": "Monitoring and Prediction of Indoor Air Quality for Enhanced Occupational Health",
+    "year": 2023,
+    "venue": "Intelligent Automation & Soft Computing",
+    "authors": "A. Pop, A. Fanca, D. Goța, H. Valean",
+    "url": "#"
+  },
+  {
+    "title": "Analysis of the Application Efficiency of TensorFlow and PyTorch in Convolutional Neural Network",
+    "year": 2022,
+    "venue": "Sensors",
+    "authors": "O.-C. Novac, M.C. Chirodea, C.M. Novac, N. Bizon, M. Oproescu, O.P. Stan, C.E. Gordan",
+    "url": "#"
+  },
+  {
+    "title": "Method for Continuous Integration and Deployment Using a Pipeline Generator for Agile Software Projects",
+    "year": 2022,
+    "venue": "Sensors",
+    "authors": "I.C. Donca, O.P. Stan, M. Misaroș, D. Goța, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Flexible Augmented Reality-Based Health Solution for Medication Weight Establishment",
+    "year": 2022,
+    "venue": "Processes",
+    "authors": "A.G. Berciu, E.H. Dulf, I.A. Ștefan",
+    "url": "#"
+  },
+  {
+    "title": "Demographic Attributes Classification via Convolutional Neural Networks: A Proposed Solution",
+    "year": 2022,
+    "venue": "ICECET",
+    "authors": "A. Ciobotariu, D. Goța, A. Pop, O. Stan, A. Fanca, C. Domuța, H. Valean, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "A New Fuzzy Adaptive Algorithm to Classify Imbalanced Data",
+    "year": 2022,
+    "venue": "CMC - Computers, Materials & Continua",
+    "authors": "H. Patel, D.S. Rajput, O.P. Stan, L.C. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Availability of a RFID Object Identification System in IoT Environment",
+    "year": 2021,
+    "venue": "Sensors",
+    "authors": "C. Corcheș, M. Daraban, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "A Review of Recent Advances in Fractional Order Sensing and Filtering Techniques",
+    "year": 2021,
+    "venue": "Sensors",
+    "authors": "C. Mureșan, I. Bîrs, E. Dulf, D. Copot, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Method to Increase Dependability in a Cloud-Fog-Edge Environment",
+    "year": 2021,
+    "venue": "Sensors",
+    "authors": "O.P. Stan, S. Enyedi, C. Corcheș, S. Flonta, I. Ștefan, D. Goța, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Interconnection of Systems with Cloud-Fog-Edge Architectures: Concept and Challenges",
+    "year": 2021,
+    "venue": "Control Engineering and Applied Informatics",
+    "authors": "C. Corcheș, M. Daraban, O. Stan, Szilárd Enyedi, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Development and Analysis of a Low-Cost IoT Sensor for Urban Environmental Monitoring",
+    "year": 2021,
+    "venue": "International Journal of Computers Communications & Control",
+    "authors": "I. Muntean, G.D. Moiș, S.C. Folea",
+    "url": "#"
+  },
+  {
+    "title": "Towards Testing Considerations Of Experimental Decision Support System Design",
+    "year": 2020,
+    "venue": "AQTR",
+    "authors": "I. Ștefan, L. Miclea, H. Vălean",
+    "url": "#"
+  },
+  {
+    "title": "Using Cognitive Services within CPS/SCADA Systems Federations - Concepts, Research Areas and Challenges",
+    "year": 2020,
+    "venue": "AQTR",
+    "authors": "A. Scurtu, C. Dehelean, S. Enyedi, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "New Era for Technology in Healthcare Powered by GDPR and Blockchain",
+    "year": 2018,
+    "venue": "MediTech / IFMBE Proceedings / Springer",
+    "authors": "O. Stan, L. Miclea",
+    "url": "#"
+  },
+  {
+    "title": "Method for the Dynamic Voltage Scaling in an Arithmetic-Logic Unit Based on On-Line Error Detection",
+    "year": "patent",
+    "venue": "Patent • OSIM no. 130282/30.03.2018",
+    "authors": "J. Figueras, L. Miclea, G. Moiș",
+    "url": "#"
+  },
+  {
+    "title": "Human-Certified Module Repositories for the AI Age",
+    "year": 2026,
+    "venue": "Open MIND",
+    "authors": "Szilárd Enyedi",
+    "url": "https://doi.org/10.48550/arxiv.2603.02512",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Reliability Analysis of a Smart Indoor Garden Developed Using IoT Technologies",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Ovidiu Stan, Szilárd Enyedi, Anca Stan, Daniela Florentina Niste, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240333",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Development of a Comprehensive Process Management and Optimization System Using the Windows API",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Tudor-Cristian Sîngerean, Bogdan Gabriel Drăghici, Alexandra Elena Dobre, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240416",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "SecureVault: Bridging the Security-Usability Gap Through Gamified Password Management",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Thomas-Andrei Zareczky, Alexandra Elena Dobre, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240335",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Heart Rate Monitoring on Fog Nodes Using Agentic Workflows and Machine Learning Classification For Automated Decision-Making",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Cristian Cola, Honoriu Vălean",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240387",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Fractional-Order Modeling and Adaptive Control of a Turbine-Synchronous Generator System, Using AI",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Roxana-Maria Motorga, Vlad Mureşan, Mihail Abrudean, Honoriu Vălean, Iulia Ștefan, Mihaela-Ligia Ungureșan",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240352",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Intelligent Document Processing: Methods for Automated Data Extraction",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Ioan Florin Anghiuș, Honoriu Vălean",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240355",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Intelligent Advanced Control System for Isotopic Separation: An Adaptive Strategy for Variable Fractional-Order Processes Using AI",
+    "year": 2025,
+    "venue": "AI",
+    "authors": "Roxana Motorga, Vlad Mureşan, Mihaela-Ligia Ungureșan, Mihail Abrudean, Honoriu Vălean, Valentin Sita",
+    "url": "https://doi.org/10.3390/ai6100246",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Reliability Study and Implementation of a Smart Fire Installation with IoT Technology",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Anca Stan, Dan-Ioan Gota, Ovidiu Stan, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/acdsa65407.2025.11166557",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Evaluating Advanced Driver Assistance Systems: A Reliability and Performance Analysis",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Ovidiu Stan, Dan-Ioan Gota, Anca Stan, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/acdsa65407.2025.11166391",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Similarity-Based Decision Support for Improving Agricultural Practices and Plant Growth",
+    "year": 2025,
+    "venue": "Applied Sciences",
+    "authors": "Iulia Bărăian, Honoriu Vălean, Oliviu Matei, Rudolf Erdei",
+    "url": "https://doi.org/10.3390/app15126936",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Deep Learning-Based Detection and Segmentation System for Multimodal Ultrasound Images in the Evaluation of Superficial Lymph Node Metastases",
+    "year": 2025,
+    "venue": "Journal of Clinical Medicine",
+    "authors": "Roxana Both, Marius-Cristian Socaci, Adrian-Ionuț Palagos, Corina Buzoianu, Camelia Avram, Honoriu Vălean, Romeo Chira",
+    "url": "https://doi.org/10.3390/jcm14061828",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Harvesting Solar Energy and Storage for Low-Energy Data Transmission",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Ionuţ Iancu, George Moiş, Teodora Sanislav, Silviu Folea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240446",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Real-Time Paddle Stroke Classification and Wireless Monitoring in Open Water Using Wearable Inertial Nodes",
+    "year": 2025,
+    "venue": "Sensors",
+    "authors": "Vladut-Alexandru Dobra, Ionut-Marian Dobra, Silviu Folea",
+    "url": "https://doi.org/10.3390/s25175307",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Comprehensive Review on Sensor-Based Electronic Nose for Food Quality and Safety",
+    "year": 2025,
+    "venue": "Sensors",
+    "authors": "Teodora Sanislav, George Moiş, Sherali Zeadally, Silviu Folea, Tudor C. Radoni, Ebtesam A. Al-Suhaimi",
+    "url": "https://doi.org/10.3390/s25144437",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Real-Time Feedback in Swimming Exercises Using Embedded Devices in Water",
+    "year": 2025,
+    "venue": "Applied Sciences",
+    "authors": "Vladut-Alexandru Dobra, Ionut-Marian Dobra, Silviu Folea, Radu Bogdan Sabau",
+    "url": "https://doi.org/10.3390/app15126771",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "An Open Microcontroller Implementation of Control Pilot Communication",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Radu Etz, George Moiş, Teodora Sanislav, Silviu Folea",
+    "url": "https://doi.org/10.1109/meco66322.2025.11049236",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Learning Swimming Techniques by Means of Real-Time Monitoring with Embedded Devices",
+    "year": 2025,
+    "venue": "Applied Sciences",
+    "authors": "Vladut-Alexandru Dobra, Ionut-Marian Dobra, Silviu Folea",
+    "url": "https://doi.org/10.3390/app15052724",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Impact of Driving Pattern Classification on Battery Optimization Strategies for 12V Lead-Acid Batteries",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "George Flutur, Gabriel Chindriș, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/siitme67657.2025.11293572",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "NetShield Lite: A Network Security Tool with Real-Time DoS Detection and AI-Enhanced Vulnerability Assessment",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Mihaela Blömer, Bogdan Gabriel Drăghici, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240263",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Cybersecurity Challenges and Strategies in Critical Infrastructure Systems: A Comprehensive Survey",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Mihai-Alexandru Jibotean, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240499",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Lightweight Cyber Threat Intelligence Automation using NLP and Visualization Tools on Raspberry Pi",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Bogdan Donat, Bogdan Gabriel Drăghici, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240527",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "European Test Symposium Teams: an Anniversary Snapshot",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Maksim Jenihhin, Jaan Raik, Artur Jutman, Natalia Cherezova, Raimund Ubar, Liviu Miclea, Szilárd Enyedi, Iulia Ștefan, Ovidiu Stan, Cosmina Corches, Zebo Peng, Petru Eles, Rolf Drechsler, Stephan Eggersglüß, Görschwin Fey, Andreas Glowatz, Daniel Tille, Georges Gielen, Anthony Coyette, Wim Dobbelaere, Ronny Vanhooren, Po-Yao Chuang, Erik Jan Marinissen, Giorgio Di Natale, Manuel J. Barragán, Paolo Maistri, Salvador Mir, Elena Ioana Vatajelu, Paolo Bernardi, Stefano Di Carlo, Paolo Prinetto, M. Sonza Reorda, M. Violante, Haralampos Stratigopoulos, Maria K. Michael, Stelios Neophytou, Stavros Hadjitheophanous, Kyriakos Christou, Michael A. Skitsas, Alberto Bosio, Bastien Deveautour, Patrick Girard, Marcello Traiola, A. Virazel, Fernando Fernandes dos Santos, Angeliki Kritikakou, Giulia Casagranda, Marzio Vallero, Flavio Vella, Paolo Rech, L. M. Bolzani Poehls, Miloš Krstić, Marko Andjelković, Fabian Vargas, Grigor Tshagharyan, G. Harutyunyan, V.A. Vardanian, S. Shoukourian, Y. Zorian, Jennifer Dworak, Kundan Nepal, Theodore W. Manikas, Motta Taouil, Moritz Fieback, Anteneh Gebregiorgis, Rajendra Bishnoi, Said Hamdioui, Abhijit Chatterjee, Anurup Saha, Sri Gowri Komarraju, Kwondo Ma, Chandramouli Amarnath, Mehdi B. Tahoori, Mahta Mayahinia, Maryam Rajabalipanah, Katayoon Basharkhah, Nooshin Nosrati, Zahra Jahanpeima, Zainalabedin Navabi, Hans-Joachim Wunderlich, Sybille Hellebrand",
+    "url": "https://doi.org/10.1109/ets63895.2025.11049652",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "HybNet: A Deep Learning-Based Backbone Feature Extractor for Breast Cancer Classification From Ultrasound Images",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Alexandru Ciobotaru, Cosmina Corches, Dan-Ioan Gota, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240351",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "An Explainable Deep Learning-Based Predictive Maintenance Solution for Air Compressor Condition Monitoring",
+    "year": 2025,
+    "venue": "Sensors",
+    "authors": "Alexandru Ciobotaru, Cosmina Corches, Dan-Ioan Gota, Liviu Miclea",
+    "url": "https://doi.org/10.3390/s25185797",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Digital Twin Optimization of Start-Stop Systems for 12V Lead-Acid Batteries",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "George Flutur, Gabriel Chindriș, Dan-Ioan Gota, Ovidiu-Petru Stan",
+    "url": "https://doi.org/10.1109/icecet63943.2025.11472192",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Deep Learning and Federated Learning in Breast Cancer Screening and Diagnosis: A Systematic Review",
+    "year": 2025,
+    "venue": "IEEE Access",
+    "authors": "Alexandru Ciobotaru, Cosmina Corches, Dan-Ioan Gota, Liviu Miclea",
+    "url": "https://doi.org/10.1109/access.2025.3560211",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Multidisciplinary Bear Deterrent System",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Dumitru Ioan Cîndea, Andrei Mihnea Săsăran, Iulia Ștefan",
+    "url": "https://doi.org/10.1109/icstcc66753.2025.11240431",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Comparative Study on COVID-19 Dynamics: Mathematical Modeling, Predictions, and Resource Allocation Strategies in Romania, Italy, and Switzerland",
+    "year": 2025,
+    "venue": "Bioengineering",
+    "authors": "Cristina-Maria Stăncioi, Iulia Ștefan, Violeta Briciu, Vlad Mureşan, Iulia Clitan, Mihail Abrudean, Mihaela-Ligia Ungureșan, Radu Miron, Ecaterina Stativă, Roxana Carmen Cordoș, Adriana Topan, Ioana Nanu",
+    "url": "https://doi.org/10.3390/bioengineering12090991",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Neural Network-Based Predictive Control of COVID-19 Transmission Dynamics to Support Institutional Decision-Making",
+    "year": 2025,
+    "venue": "Mathematics",
+    "authors": "Cristina-Maria Stăncioi, Iulia Ștefan, Violeta Briciu, Vlad Mureşan, Iulia Clitan, Mihail Abrudean, Mihaela-Ligia Ungureșan, Radu Miron, Ecaterina Stativă, Michaela Nanu, Adriana Topan, Ioana Nanu",
+    "url": "https://doi.org/10.3390/math13152528",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Shaping the future of education: Circular pedagogy and innovation in action",
+    "year": 2025,
+    "venue": "AIP conference proceedings",
+    "authors": "Ivaylo Peev, Iulia Ștefan, Fotini Efthimiou, Lia Pop, Lucía Morales",
+    "url": "https://doi.org/10.1063/5.0247594",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Pioneering change: Circular pedagogy and digitalized project-based learning in mathematics",
+    "year": 2025,
+    "venue": "AIP conference proceedings",
+    "authors": "Lia Pop, I. D. Mikhailova, Iulia Ștefan, Ivaylo Peev, Lucía Morales",
+    "url": "https://doi.org/10.1063/5.0246186",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Establishing the national spatial information infrastructure: research development innovation component (INIS-RDI)",
+    "year": 2025,
+    "venue": "Romanian Journal of Ecology & Environmental Chemistry",
+    "authors": "Romanian Space Agency, Alina Răduțu, Florin IOSUB, Essensys Software SRL, Florin Pop, Gabriel Iuhasz, Alexandru Stanciu, Luoana Florentina Pascu, Corina Stoian, Lidia Kim",
+    "url": "https://doi.org/10.21698/rjeec.2025.205",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Spatiotemporal Analysis of Air Pollution and Climate Change Effects on Urban Green Spaces in Bucharest Metropolis",
+    "year": 2025,
+    "venue": "Atmosphere",
+    "authors": "Maria A. Zoran, Dan Savastru, Marina N. Tautan, Daniel V. Tenciu, Alexandru Stanciu",
+    "url": "https://doi.org/10.3390/atmos16050553",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Adaptive Reinforcement Learning for Dynamic Energy Management in Self-Reliant Deep Space Habitats: Extending the CityLearn Framework",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "Alexandru Stanciu, Ulpia Elena Botezatu, Ella Magdalena Ciuperca",
+    "url": "https://doi.org/10.52202/083101-0056",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "IoT-Based Digital Twin for Vehicle Battery Testing and Emissions Analysis",
+    "year": 2025,
+    "venue": "Unknown venue",
+    "authors": "George Flutur, Ovidiu Stan, Gabriel Chindriș, Liviu Miclea",
+    "url": "https://doi.org/10.1109/lats65346.2025.10963938",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Modeling and Simulation of the Operation of an 18O Isotope Separation Cascade using Artificial Intelligence",
+    "year": 2024,
+    "venue": "Journal of Control Engineering and Applied Informatics",
+    "authors": "Laurentiu Chifor, Vlad Mureşan, Mihaela-Ligia Ungureșan, Mihail Abrudean, Honoriu Vălean, Iulia Clitan, Valentin Sita",
+    "url": "https://doi.org/10.61416/ceai.v26i4.9095",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Smart Platform for Monitoring and Managing Energy Harvesting in Household Systems",
+    "year": 2024,
+    "venue": "Energies",
+    "authors": "Teodora Sanislav, George Moiş, Sherali Zeadally, Silviu Folea, Horia Hedeşiu",
+    "url": "https://doi.org/10.3390/en17235977",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Intelligent System for Coffee Odor Identification and Classification",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Teodora Sanislav, Denis Adrian Sipos, George Mois, Silviu Folea",
+    "url": "https://doi.org/10.1109/telfor63250.2024.10819190",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Open Source in Embedded Systems Development",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "George Moiş, Radu Etz, Teodora Sanislav, Silviu Folea",
+    "url": "https://doi.org/10.1109/meco62516.2024.10577814",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Spoiled Food Detection Using a Matrix of Gas Sensors",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Andrei Tămâian, Silviu Folea",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554106",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Case Study on an Experimental Autonomous Vehicle and Evaluation of its System Reliability",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Clément Robier, Ovidiu Stan, Szilárd Enyedi, Anca Stan, Dan Ioan Gota, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme62383.2024.10796058",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "On the Feasibility of Deep Learning Classification from Raw Signal Data in Radiology, Ultrasonography and Electrophysiology",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Szilárd Enyedi",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554095",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Mastering Rocket League with Reinforcement Learning A Proximal Policy Optimization Approach",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Dan-Ioan Gota, Daniela Florentina Niste, Anca Stan, Alexandru Ciobotaru, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme62383.2024.10796434",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Target Object Selection Scenario Classification in Adaptive Cruise Control Systems",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Marius Misaroş, Dan-Ioan Gota, Ovidiu Stan, Claudiu Domuţă, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme62383.2024.10796495",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "End-to-End Deep Learning based Emotion Classification Solution using ResNet-50 Model",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Oliver-Grigorie Cosma, Dan-Ioan Gota, Alexandru Ciobotaru, Marius Misaroş, Ovidiu Stan, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecet61485.2024.10698301",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Reliable Breast Cancer Detection from Ultrasound Images using Image Segmentation",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Alexandru Ciobotaru, Dan-Ioan Gota, Tudor Covrig, Liviu Miclea",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554200",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Technology and Innovation to Decolonise Marketing Research Methods",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Daniel Rajmil, Asunción Pino Vázquez, Iulia Ștefan, Lia Pop, Lucía Morales",
+    "url": "https://doi.org/10.4324/9781032698083-5",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Drone Controlled by Hand Gestures",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Dan Ioan Gota, Marius Misaroş, Daniela Florentina Niste, Adela Pop, Alexandra Fanca, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme62383.2024.10796890",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Utilizing Transfer Learning-Based Algorithms for Breast Ultrasound Data in Multi-Instance Classification",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Maria Bota, Dan Ioan Gota, Peter Bota, Ovidiu Stan, Adela Pop, Alexandra Fanca, Claudiu Domuţă, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/acdsa59508.2024.10467704",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "eHealth Mobile Application Using Fitbit Smartwatch",
+    "year": 2024,
+    "venue": "World Congress on Medical Physics and Biomedical Engineering, September 7 - 12, 2009, Munich, Germany",
+    "authors": "Adela Pop, Alexandra Fanca, Honoriu Vălean, Dan-Ioan Gota, Ovidiu Stan, M. N. Roman, Iulia Clitan, Vlad Mureşan",
+    "url": "https://doi.org/10.1007/978-3-031-51120-2_13",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Increasing the Dependability of a Real-Time System",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Diana-Elena Niți, Tomasz Kubik, Szilárd Enyedi, Liviu Miclea",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554165",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Open Science&amp;Research Data Management - a contribution to online training resources for research institutions",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Gabriel Neagu, Ella Magdalena CIUPERCĂ, Dragoș-Cătălin BARBU, Alexandru Stanciu, Andreea Dinu, S. Constantinescu",
+    "url": "https://doi.org/10.58503/icvl-v19y202411",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "The Effects of Air Quality and the Impact of Climate Conditions on the First COVID-19 Wave in Wuhan and Four European Metropolitan Regions",
+    "year": 2024,
+    "venue": "Atmosphere",
+    "authors": "Marina N. Tautan, Maria A. Zoran, Roxana Rădvan, Dan Savastru, Daniel V. Tenciu, Alexandru Stanciu",
+    "url": "https://doi.org/10.3390/atmos15101230",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Transformarea transportului spațial prin tehnologii imersive: o analiză SWOT",
+    "year": 2024,
+    "venue": "Revista Română de Informatică și Automatică",
+    "authors": "Ulpia-Elena BOTEZATU, Alexandru Stanciu, Ella-Magdalena CIUPERCĂ, Sorin Topor, Sabin POPESCU",
+    "url": "https://doi.org/10.33436/v34i3y202405",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Linking urbanization with air pollution and thermal environment in Bucharest metropolis",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Maria A. Zoran, Roxana Rădvan, Dan Savastru, Marina N. Tautan, Alexandru Stanciu",
+    "url": "https://doi.org/10.1117/12.3034998",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Seismic surveillance of Vrancea active region in Romania by time series satellite data anomalies",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Marina N. Tautan, Maria A. Zoran, Roxana Rădvan, Dan Savastru, Alexandru Stanciu",
+    "url": "https://doi.org/10.1117/12.3035001",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Can Deepfakes Benefit the Metaverse in an Era of Disinformation? Insights from a Systematic Review",
+    "year": 2024,
+    "venue": "IFAC-PapersOnLine",
+    "authors": "Alexandru Stanciu, Ella-Magdalena Ciupercă",
+    "url": "https://doi.org/10.1016/j.ifacol.2024.07.125",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "System for the Acquisition and Monitoring of Energy Consumption in the Context of Industry 4.0",
+    "year": 2024,
+    "venue": "Sensors",
+    "authors": "Tudor Covrig, Alexandru Ciobotaru, Pavel-Alexandru Bejan, Lucian Farmathy-Pop, Stelian-Emilian Oltean, Cristian-Dragoș Dumitru, Liviu Miclea",
+    "url": "https://doi.org/10.3390/s24196302",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Simulation of a Controlled Industrial Process with the Help of a PLC Using Augmented Reality",
+    "year": 2024,
+    "venue": "Acta Marisiensis Seria Technologica",
+    "authors": "Tudor Covrig, Alexandru Ciobotaru, Tehnical Universty of Cluj-Napoca, Romania, Zoltán GERMÁN-SALLÓ",
+    "url": "https://doi.org/10.62838/amset-2024-0006",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Development of a Simulated Industrial Process and its Control with a PLC",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Tudor Covrig, Liviu Miclea, Alexandru Ciobotaru",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554171",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Comparing Two Different Implementations of OPC UA Clients",
+    "year": 2024,
+    "venue": "Lecture notes in networks and systems",
+    "authors": "Tudor Covrig, Alexandru Ciobotaru, Adrian-Vasile Duka, Ovidiu-Alexandru Roșca, Liviu Miclea",
+    "url": "https://doi.org/10.1007/978-3-031-54674-7_15",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Bacterial-fungicidal vine disease detection with proximal aerial images",
+    "year": 2024,
+    "venue": "Heliyon",
+    "authors": "Delia Elena Székely, Darius Dobra, Alexandra Elena Dobre, Victor Domșa, Bogdan Gabriel Drăghici, Tudor-Alexandru Ileni, Robert Konievic, Szilárd Molnár, Paul Sucala, Elena Zah, Adrian Sergiu Dărăbant, Attila D. Sándor, Levente Tamás",
+    "url": "https://doi.org/10.1016/j.heliyon.2024.e34017",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Smart Agriculture: Farm Management through IoT with Predictive and Precision Monitoring",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Alexandra Elena Dobre, Bogdan Gabriel Drăghici, Bianca Ciobanu, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554121",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Design of a Stepping Hexapod Bio-Inspired Robot",
+    "year": 2024,
+    "venue": "Unknown venue",
+    "authors": "Răzvan Ștefan Dologa, Honoriu Vălean, Alexandru Ianoși-Andreeva-Dimitrova",
+    "url": "https://doi.org/10.1109/aqtr61889.2024.10554226",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Computational procedure for adaptive front-lighting systems",
+    "year": 2023,
+    "venue": "Unknown venue",
+    "authors": "Henrietta Helena Vitca, Iulia Ștefan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iccp60212.2023.10398728",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Comparing Deep Learning and Genetic Algorithms Techniques for Age and Gender Classification",
+    "year": 2023,
+    "venue": "Unknown venue",
+    "authors": "Alexandru Ciobotaru, Dan Ioan Gota, Adela Puscasiu, Ovidiu Stan, Alexandra Fanca, Claudiu Domuţă, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme57830.2023.10253422",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Automatic Music Generation Using Machine Learning",
+    "year": 2023,
+    "venue": "Unknown venue",
+    "authors": "Oliver-Grigorie Cosma, Claudiu Domuţă, Dan-Ioan Gota, Ovidiu Stan, Alexandra Fanca, Adela Pop, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecet58911.2023.10389273",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Innovation through Green-Energy Footwear and Piezoelectric Harvesting System",
+    "year": 2023,
+    "venue": "Unknown venue",
+    "authors": "Robert-Vasile Panța, Iulia Ștefan, Alexandra Fanca, Dan-Ioan Gota, Honoriu Vălean, Adela Pop",
+    "url": "https://doi.org/10.1109/icstcc59206.2023.10308469",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Performance Evaluation of Two Blockchain Platforms for a Use Case",
+    "year": 2023,
+    "venue": "Unknown venue",
+    "authors": "Diana-Elena Niți, Szilárd Enyedi, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iccc57093.2023.10178942",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "ED-Sense, platformă tehnologică pentru educație personalizată în era digitală bazată pe inteligență artificială și conținut interactiv",
+    "year": 2023,
+    "venue": "Revista de Pedagogie Digitala",
+    "authors": "Marius Ivanov, Alexandru Stanciu",
+    "url": "https://doi.org/10.61071/rpd.2388",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "DISTRIBUTED SYSTEM FOR MONITORING ENVIRONMENTAL CONDITIONS using IoT",
+    "year": 2022,
+    "venue": "2022 International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+    "authors": "Adela Puscasiu, Alexandra Fanca, Dan Ioan Gota, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecet55527.2022.9873459",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Daily activities monitoring system using the mobile terminal",
+    "year": 2022,
+    "venue": "Unknown venue",
+    "authors": "Alexandra Fanca, Adela Puscasiu, Dan Ioan Gota, Honoriu Vălean",
+    "url": "https://doi.org/10.1109/iccc54292.2022.9805886",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Romanian Coins Recognition and Sum Counting System From Image Using TensorFlow and Keras",
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+    "authors": "Alexandra Fanca, Adela Puscasiu, Dan Ioan Gota, Flavius Madalin Giurgiu, Maria Magdalena Santa, Honoriu Vălean, Claudiu Domuţă, Liviu Miclea",
+    "url": "https://doi.org/10.1109/aqtr55203.2022.9802068",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Indoor Air Quality Monitoring System for Healthcare Facilities",
+    "year": 2022,
+    "venue": "World Congress on Medical Physics and Biomedical Engineering, September 7 - 12, 2009, Munich, Germany",
+    "authors": "Adela Puscasiu, Alexandra Fanca, Honoriu Vălean, Dan-Ioan Gota, Ovidiu Stan, Nicolae Marius Roman, Iulia Clitan, Vlad Mureşan",
+    "url": "https://doi.org/10.1007/978-3-030-93564-1_44",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Healthy nutrition smartphone app with personalized recommendations",
+    "year": 2022,
+    "venue": "2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+    "authors": "Alexandra Fanca, Adela Pop, Arina Badistru, Dan Ioan Gota, Honoriu Vălean",
+    "url": "https://doi.org/10.1109/iceccme55909.2022.9988326",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Gaze Analysis and Concentration Monitoring for Children With Attention Disorder Using Eye-Tracking",
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+    "authors": "Gota Dan, Miron-Onciul Ruxandra, Claudiu Domuţă, Fanca Alexandra, Pop - Puscasiu Adela, Ovidiu Stan, Honoriu Vălean, Miclea Liviu",
+    "url": "https://doi.org/10.1109/aqtr55203.2022.9802014",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Multi-Channel Chatbot and Robotic Process Automation",
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+    "authors": "Gota Dan, Claudiu Domuţă, Fanca Alexandra, Pop-Puscasiu Adela, Ovidiu Stan, Honoriu Vălean, Miclea Liviu",
+    "url": "https://doi.org/10.1109/aqtr55203.2022.9801960",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "A Sorting Solution Based on an Industrial Robotic Arm with Image Processing",
+    "year": 2022,
+    "venue": "Lecture notes in networks and systems",
+    "authors": "Ovidiu-Alexandru Rosca, Elena-Emilia Nebunu-Barac, Tudor Covrig, Adrian-Vasile Duka, Stelian-Emilian Oltean",
+    "url": "https://doi.org/10.1007/978-3-031-22375-4_75",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Web Based PLC Integrated Process Simulator",
+    "year": 2022,
+    "venue": "Lecture notes in networks and systems",
+    "authors": "Tudor Covrig, Adrian Gligor, Adrian-Vasile Duka, Ovidiu-Alexandru Roșca",
+    "url": "https://doi.org/10.1007/978-3-031-22375-4_72",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "From Pepper's Photographic Lessons to Appointment Application",
+    "year": 2022,
+    "venue": "2022 26th International Conference on System Theory, Control and Computing (ICSTCC)",
+    "authors": "Bogdan Gabriel Drăghici, Alexandra Elena Dobre, Marius Misaroş, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc55426.2022.9931823",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Development of a Human Service Robot Application Using Pepper Robot as a Museum Guide",
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+    "authors": "Bogdan Gabriel Drăghici, Alexandra Elena Dobre, Marius Misaroş, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/aqtr55203.2022.9802037",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Deep Neural Networks and Computer Vision for Real-Time Facial Landmark Detection",
+    "year": 2021,
+    "venue": "2021 International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+    "authors": "Alexandru Ciobotaru, Dan Ioan Gota, Adela Puscasiu, Ovidiu Stan, Alexandra Fanca, Claudiu Domnuta, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icecet52533.2021.9698811",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Analyzing Benford’s Law’s Powerful Applications in Image Forensics",
+    "year": 2021,
+    "venue": "Applied Sciences",
+    "authors": "Diana Crișan, Alexandru-Ionuţ Irimia, Dan-Ioan Gota, Liviu Miclea, Adela Puscasiu, Ovidiu Stan, Honoriu Vălean",
+    "url": "https://doi.org/10.3390/app112311482",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Monitoring System For Quarantined Persons",
+    "year": 2021,
+    "venue": "Unknown venue",
+    "authors": "Alexandra Fanca, Adela Puscasiu, Paul Detesan, Dan-Ioan Gota, Honoriu Vălean, Liviu Miclea",
+    "url": "https://doi.org/10.1109/icstcc52150.2021.9607309",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Data transmission and remote control of Android mobile devices",
+    "year": 2021,
+    "venue": "2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+    "authors": "Adela Puscasiu, Alexandra Fanca, Dan-Ioan Gota, Claudiu Domuţă, Honoriu Vălean, Ovidiu Stan, Liviu Miclea",
+    "url": "https://doi.org/10.1109/iceccme52200.2021.9590902",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Scheduling Method for Non-Emergency Medical Cases",
+    "year": 2020,
+    "venue": "Unknown venue",
+    "authors": "Camelia Avram, Ovidiu Stan, Claudiu Domuţă, Vlad Mureşan, Corina Racasan, Valentin Sita, Adina Aştilean",
+    "url": "https://doi.org/10.1109/aqtr49680.2020.9129937",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Smart Chair System for Posture Correction",
+    "year": 2019,
+    "venue": "Unknown venue",
+    "authors": "George Flutur, Bogdan Movileanu, Karoly Lengyel, Ionut Danci, Daniel Cosovanu, Ovidiu Stan",
+    "url": "https://doi.org/10.1109/dsd.2019.00069",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "ChemInform Abstract: Synthesis of Benzoxazines, Quinazolines and 4H‐Benzo[e][1,3]thiazine by ANRORC Rearrangements of 1,2,4‐Oxadiazoles.",
+    "year": 2012,
+    "venue": "ChemInform",
+    "authors": "Bogdan Draghici, Bahaa Elgendy, Alan R. Katritzky",
+    "url": "https://doi.org/10.1002/chin.201225186",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Synthesis of Benzoxazines, Quinazolines and 4H-Benzo[e][1,3]thiazine by ANRORC Rearrangements of 1,2,4-Oxadiazoles",
+    "year": 2012,
+    "venue": "Synthesis",
+    "authors": "Alan Katritzky, Bogdan Draghici, Bahaa Elgendy",
+    "url": "https://doi.org/10.1055/s-0031-1289673",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "ChemInform Abstract: New Pyrrolo[2,1‐a]phthalazine Derivatives by One‐Pot Three‐Component Synthesis.",
+    "year": 2011,
+    "venue": "ChemInform",
+    "authors": "Florea Dumitraşcu, Miron Teodor Căproiu, Florentina Georgescu, Bogdan Draghici, Macel Mirel Popa, Emilian Georgescu",
+    "url": "https://doi.org/10.1002/chin.201105157",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "CCDC 836956: Experimental Crystal Structure Determination",
+    "year": 2011,
+    "venue": "The Cambridge Structural Database",
+    "authors": "Alan R. Katritzky, B.E.-D.M. El-Gendy, Bogdan Draghici, C.D. Hall, P.J. Steel",
+    "url": "https://doi.org/10.5517/ccx2xlg",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Efficient microwave-assisted synthesis of aminoxy acid conjugates",
+    "year": 2011,
+    "venue": "RSC Advances",
+    "authors": "Bogdan Draghici, Finn K. Hansen, Ana‐Maria Buciumas, Bahaa Elgendy, Ekaterina Todadze, Alan R. Katritzky",
+    "url": "https://doi.org/10.1039/c1ra00413a",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "NMR Study of the Tautomeric Behavior of <i>N</i>-(α-Aminoalkyl)tetrazoles",
+    "year": 2010,
+    "venue": "The Journal of Organic Chemistry",
+    "authors": "Alan R. Katritzky, Bahaa Elgendy, Bogdan Draghici, C. Dennis Hall, Peter J. Steel",
+    "url": "https://doi.org/10.1021/jo101195z",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "New Pyrrolo[2,1-a]phthalazine Derivatives by One-Pot Three-Component Synthesis",
+    "year": 2010,
+    "venue": "Synlett",
+    "authors": "Florea Dumitraşcu, Miron Teodor Căproiu, Florentina Georgescu, Bogdan Draghici, Marcel Mirel Popa, Emilian Georgescu",
+    "url": "https://doi.org/10.1055/s-0030-1258035",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "Tautomerism in drug discovery",
+    "year": 2010,
+    "venue": "Journal of Computer-Aided Molecular Design",
+    "authors": "Alan R. Katritzky, C. Dennis Hall, Bahaa Elgendy, Bogdan Draghici",
+    "url": "https://doi.org/10.1007/s10822-010-9359-z",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "ChemInform Abstract: A Novel Approach for the Synthesis of N‐Arylpyrroles.",
+    "year": 2010,
+    "venue": "ChemInform",
+    "authors": "Florea Dumitraşcu, Emilian Georgescu, Mino R. Caira, Florentina Georgescu, Marcel Mirel Popa, Bogdan Draghici, Dan Dumitrescu",
+    "url": "https://doi.org/10.1002/chin.201018098",
+    "source": "OpenAlex"
+  },
+  {
+    "title": "<sup>1</sup>H, <sup>13</sup>C, and <sup>15</sup>N NMR spectra of some pyridazine derivatives",
+    "year": 2010,
+    "venue": "Magnetic Resonance in Chemistry",
+    "authors": "Alan R. Katritzky, Bahaa Elgendy, Bogdan Draghici, Dmytro Fedoseyenko, Aziz Fadli, Eric Métais",
+    "url": "https://doi.org/10.1002/mrc.2584",
+    "source": "OpenAlex"
+  }
+]

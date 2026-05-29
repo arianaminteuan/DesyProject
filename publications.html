@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeSy Publications | UTCN</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="nav-wrap">
+    <div class="container navbar">
+      <a href="index.html" class="brand brand-logo">
+        <img src="logo.jpeg" alt="DeSy logo" class="logo-img">
+      </a>
+
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#research">Research</a>
+        <a href="projects.html">Projects</a>
+        <a href="publications.html" class="active">Publications</a>
+        <a href="members.html">Members</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+
+      <div class="nav-actions">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+          <span class="theme-toggle-text">Dark Mode</span>
+        </button>
+        <a class="btn btn-primary" href="mailto:Liviu.Miclea@aut.utcluj.ro">Collaborate</a>
+        <a href="https://www.utcluj.ro/" target="_blank" rel="noopener noreferrer">
+        <img src="images/orangeutcnlogo.png" alt="UTCN Logo" class="footer-utcn-logo">
+      </a>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <div class="eyebrow">DeSy Research Group • Publications Archive</div>
+        <h1>Scientific articles, conference papers, patents, and research results.</h1>
+        <p>
+          This page contains the representative publication archive of the DeSy research group. Every box is clickable, so you can later add the real DOI, journal, conference, or publisher link for each entry.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="filters">
+          <button class="btn filter-btn active" data-filter="all">All Years</button>
+          <button class="btn filter-btn" data-filter="2024">2024</button>
+          <button class="btn filter-btn" data-filter="2023">2023</button>
+          <button class="btn filter-btn" data-filter="2022">2022</button>
+          <button class="btn filter-btn" data-filter="2021">2021</button>
+          <button class="btn filter-btn" data-filter="2020">2020</button>
+          <button class="btn filter-btn" data-filter="2018">2018</button>
+          <button class="btn filter-btn" data-filter="patent">Patents</button>
+        </div>
+
+        <div class="pub-grid publications-grid" id="publicationsGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-col footer-logo-col">
+        <a href="https://www.utcluj.ro/" target="_blank" rel="noopener noreferrer">
+          <img src="images/orangeutcnlogo.png" alt="UTCN Logo" class="footer-utcn-logo">
+        </a>
+      </div>
+
+      <div class="footer-col footer-center-col">
+        <p class="footer-main">© 2026 DeSy Research Group</p>
+        <p class="footer-sub">Technical University of Cluj-Napoca</p>
+      </div>
+
+      <div class="footer-col footer-right-col">
+        <p>Professional research group website — Department of Automation, UTCN</p>
+      </div>
+    </div>
+  </footer>
+
+ <script>
+  (function () {
+    const savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme === "dark") {
+      document.body.classList.add("dark-mode");
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const toggleButton = document.getElementById("theme-toggle");
+      const toggleText = document.querySelector(".theme-toggle-text");
+
+      function updateToggleLabel() {
+        const isDark = document.body.classList.contains("dark-mode");
+        if (toggleText) {
+          toggleText.textContent = isDark ? "Light Mode" : "Dark Mode";
+        }
+      }
+
+      if (toggleButton) {
+        updateToggleLabel();
+
+        toggleButton.addEventListener("click", function () {
+          document.body.classList.toggle("dark-mode");
+
+          const isDark = document.body.classList.contains("dark-mode");
+          localStorage.setItem("theme", isDark ? "dark" : "light");
+
+          updateToggleLabel();
+        });
+      }
+
+      const publicationsGrid = document.getElementById("publicationsGrid");
+      const filterButtons = document.querySelectorAll(".filter-btn");
+
+      let allPublications = [];
+
+      function createPublicationCard(publication) {
+        const card = document.createElement("a");
+
+        card.href = publication.url || "#";
+        card.target = "_blank";
+        card.className = "pub-card publication-card";
+        card.dataset.category = publication.year;
+
+        card.innerHTML = `
+          <span>${publication.year} • ${publication.venue}</span>
+          <h3>${publication.title}</h3>
+          <p>${publication.authors}</p>
+        `;
+
+        return card;
+      }
+
+      function renderPublications(filter = "all") {
+        publicationsGrid.innerHTML = "";
+
+        const filteredPublications = allPublications.filter(publication => {
+          return filter === "all" || String(publication.year) === filter;
+        });
+
+        filteredPublications.forEach(publication => {
+          const card = createPublicationCard(publication);
+          publicationsGrid.appendChild(card);
+        });
+      }
+
+     fetch("http://localhost:3000/api/publications")
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("Could not load publications.json");
+          }
+
+          return response.json();
+        })
+        .then(publications => {
+          allPublications = publications;
+          renderPublications("all");
+        })
+        .catch(error => {
+          publicationsGrid.innerHTML = `
+            <div class="note-box">
+              <h3>Publications could not be loaded</h3>
+              <p>Please check that <code>data/publications.json</code> exists and is valid JSON.</p>
+            </div>
+          `;
+          console.error(error);
+        });
+
+      filterButtons.forEach(button => {
+        button.addEventListener("click", function () {
+          filterButtons.forEach(btn => btn.classList.remove("active"));
+          button.classList.add("active");
+
+          const filter = button.dataset.filter;
+          renderPublications(filter);
+        });
+      });
+    });
+  })();
+</script>
+</body>
+</html>
